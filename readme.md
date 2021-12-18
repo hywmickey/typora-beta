@@ -4,13 +4,13 @@ Typora開始收費了，我真的嚇到吃手手了。
 
 備份一下最後的Beta測試版 v0.11.18。
 
-[下載 (Windows x64)](https://github.com/HowardWhile/typora-beta/raw/main/typora-update-x64-1117.exe)
+[下載 (Windows x64)](https://github.com/hywmickey/typora-beta/raw/main/typora-update-x64-1117.exe)
 
-[下載 (Windows x86)](https://github.com/HowardWhile/typora-beta/raw/main/typora-update-ia32-1117.exe)
+[下載 (Windows x86)](https://github.com/hywmickey/typora-beta/raw/main/typora-update-ia32-1117.exe)
 
-[下載 (Linux x64)](https://github.com/HowardWhile/typora-beta/raw/main/typora_0.11.18_amd64.deb)
+[下載 (Linux x64)](https://github.com/hywmickey/typora-beta/raw/main/typora_0.11.18_amd64.deb)
 
-[下載 (Mac)](https://github.com/HowardWhile/typora-beta/raw/main/Typora-0.11.18.dmg)
+[下載 (Mac)](https://github.com/hywmickey/typora-beta/raw/main/Typora-0.11.18.dmg)
 
 ## 值得紀念的最後的開發版本release
 
@@ -37,3 +37,9 @@ Typora開始收費了，我真的嚇到吃手手了。
 
 
 > https://typora.io/dev_release.html
+
+
+arch linxu 下的安装
+需要的文件：typora_0.11.18_amd64.deb、PKGBUILD
+安装过程可以使用  makepkg -sri 命令进行安装
+v

@@ -39,7 +39,6 @@ Typora開始收費了，我真的嚇到吃手手了。
 > https://typora.io/dev_release.html
 
 
-arch linxu 下的安装
+## arch linxu 下的安装
 需要的文件：typora_0.11.18_amd64.deb、PKGBUILD
 安装过程可以使用  makepkg -sri 命令进行安装
-v
